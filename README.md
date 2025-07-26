@@ -24,3 +24,5 @@
 
 ---
 
+![GitHub Streak](https://streak-stats.demolab.com?user=nurulain0&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurulain0&show_icons=true&theme=tokyonight)

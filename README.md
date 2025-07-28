@@ -39,10 +39,8 @@ Take a look at my recent contributions and overall stats!
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nurulain0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Noor Ul Ain Jellani's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=nurulain0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulain0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
----
 ✨ Code in Motion
 
 ![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yenJjeW96eDYzZzhkZ3U4MjgyN3JnanJmbnc3enA1ZWFubmdzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BpGWitbFZflfSUYuZ9/giphy.gif)

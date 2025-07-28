@@ -44,7 +44,8 @@ Take a look at my recent contributions and overall stats!
 ---
 ✨ Code in Motion
 
-![Coding GIF](https://media.giphy.com/media/LMt63f25c7z8k/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2p5M3JrdW5zZ29xY29zcHl5N3VucW11b3Z2N2x3aW56dG55d2V2aiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/du3J3cXyieetR9cttI/giphy.gif)
+
 
 
 ## 🤝 Let's Connect!

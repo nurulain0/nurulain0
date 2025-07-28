@@ -37,10 +37,11 @@ Here's a snapshot of the technologies and tools I'm proficient with or actively 
 
 Take a look at my recent contributions and overall stats!
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nurulain0&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nurulain0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulain0&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nurulain0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Noor Ul Ain Jellani's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=nurulain0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulain0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
 ---
 ✨ Code in Motion
 

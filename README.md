@@ -1,4 +1,4 @@
-# Hi, I'm Noor Ul Ain Jellani 👋
+# Hi, I'm Noor Ul Ain Jellani 
 
 ### 🎓 CS Undergrad @ IST Islamabad
 ### 💡 Passionate about merging logic with creativity, dedicated to building intuitive and efficient solutions.
@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a driven Computer Science undergraduate at IST Islamabad, with a keen interest in **Computer vision and **problem-solving using C++**. I'm passionate about transforming ideas into functional and user-friendly applications. My journey involves continuously learning new technologies and strengthening my foundational skills to create impactful digital experiences. I thrive on challenges and am always eager to explore innovative solutions.
+I'm a driven Computer Science undergraduate at IST Islamabad, with a keen interest in **Computer vision** and **problem-solving using C++**. I'm passionate about transforming ideas into functional and user-friendly applications. My journey involves continuously learning new technologies and strengthening my foundational skills to create impactful digital experiences. I thrive on challenges and am always eager to explore innovative solutions.
 
 ---
 
@@ -33,29 +33,7 @@ Here's a snapshot of the technologies and tools I'm proficient with or actively 
 
 ---
 
-## 📊 My GitHub Activity
-
-Take a look at my recent contributions and overall stats!
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nurulain0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Noor Ul Ain Jellani's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurulain0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-✨ Code in Motion
-
 ![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yenJjeW96eDYzZzhkZ3U4MjgyN3JnanJmbnc3enA1ZWFubmdzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BpGWitbFZflfSUYuZ9/giphy.gif)
-
-
-
-## 🤝 Let's Connect!
-
-I'm always open to discussing new ideas, collaborating on interesting projects, or just connecting with fellow developers. Feel free to reach out!
-
-* **GitHub**: [github.com/nurulain0](https://github.com/nurulain0)
-* **LinkedIn**: www.linkedin.com/in/noor-ul-ain-jellani-gujar-54b54513b
-* **Email**: noorjellani98@gmail.com 
-
----
 
 ## 📈 What I'm Looking For
 * **Collaborations**: Interested in contributing to open-source projects or collaborating on innovative web development ideas.

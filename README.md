@@ -11,9 +11,6 @@ Currently, I'm focused on:
 I’m always eager to collaborate on **open-source projects**, especially those involving education, accessibility, or creative applications of technology.  
 
 ---
-
-![Coding GIF]  
-(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yenJjeW96eDYzZzhkZ3U4MjgyN3JnanJmbnc3enA1ZWFubmdzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BpGWitbFZflfSUYuZ9/giphy.gif)  
+![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yenJjeW96eDYzZzhkZ3U4MjgyN3JnanJmbnc3enA1ZWFubmdzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BpGWitbFZflfSUYuZ9/giphy.gif)  
 
 ---
-

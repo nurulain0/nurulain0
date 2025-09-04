@@ -12,16 +12,8 @@ I’m always eager to collaborate on **open-source projects**, especially those 
 
 ---
 
-![Coding GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yenJjeW96eDYzZzhkZ3U4MjgyN3JnanJmbnc3enA1ZWFubmdzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BpGWitbFZflfSUYuZ9/giphy.gif)  
+![Coding GIF]  
+(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5yenJjeW96eDYzZzhkZ3U4MjgyN3JnanJmbnc3enA1ZWFubmdzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BpGWitbFZflfSUYuZ9/giphy.gif)  
 
 ---
 
-## 📊 GitHub Stats  
-
-![Noor's GitHub stats](https://github-readme-stats.vercel.app/api?username=nurulain0&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurulain0&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=nurulain0&theme=tokyonight)  
-
----

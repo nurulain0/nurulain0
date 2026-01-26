@@ -1,6 +1,6 @@
 # Hi, I'm Noor Ul Ain Jellani  
 
-I'm a Computer Science undergraduate at [Institute of Space Technology, Islamabad](https://ist.edu.pk/). My interests lie in **computer vision**, **problem-solving in C++**, and building intuitive digital experiences. I enjoy exploring how logic and creativity can merge to produce impactful technology.  
+I'm a Computer Science undergraduate at [Institute of Space Technology, Islamabad](https://ist.edu.pk/). My interests lie in **computer vision**, **Block Chain**, and building intuitive digital experiences. I enjoy exploring how logic and creativity can merge to produce impactful technology.  
 
 Currently, I'm focused on:  
 - Building small **projects** and experimenting with **JavaScript/Python**  

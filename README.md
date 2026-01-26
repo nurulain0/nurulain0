@@ -3,8 +3,7 @@
 I'm a Computer Science undergraduate at [Institute of Space Technology, Islamabad](https://ist.edu.pk/). My interests lie in **computer vision**, **problem-solving in C++**, and building intuitive digital experiences. I enjoy exploring how logic and creativity can merge to produce impactful technology.  
 
 Currently, I'm focused on:  
-- Strengthening my foundations in **Data Structures & Algorithms**  
-- Building small **web projects** and experimenting with **JavaScript games**  
+- Building small **projects** and experimenting with **JavaScript/Python**  
 - Maintaining a consistent **GitHub presence** to track my growth  
 - Improving **problem-solving skills** through challenges and competitions  
 
